@@ -12,9 +12,9 @@ const jetBrainsMono = JetBrains_Mono({
   subsets: ["latin"],
 });
 
-export const metadata: Metadata = {
-  title: "PDF → Excel",
-  description: "Extract tables from PDFs into Excel",
+export const metadata = {
+  title: "RV Solutions — PDF → Excel",
+  description: "Convert tables in PDFs to Excel workbooks.",
 };
 
 export default function RootLayout({
